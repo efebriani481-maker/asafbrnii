@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="id">
+	<meta charset="UTF-8">
+	<meta name="viewport"
+content="width=device-width, in9itial-scale=1.0">
+	<title>Website PKL Saya</title>
+	<link rl="stylesheet" href="style.css">
+</head>
+<body>
+
+	<header>
+	<h1>Website PKL Saya</h1>
+	<nav>
+		<a href="#">Beranda/a>
+		<a href="#">Tentang</a>
+		<a href="#"Kontak</a>
+	   </nav>
+	</header>
+
+	<section class="content">
+	   <h2>Halo, Welcome Guys!</h2>
+	   <p>Ini adalah wevsite pertama saya yang di buat saat PKL.</p>
+	   button onlick="halo()">Klik Saya</ buttin>
+	</section>
+
+	<footer>
+	   <p>2025 Website PKL Saya</p>
+	<footer>
+	   
+	<script src="script.js"></script>
+</body>
+</html>
+
+	
